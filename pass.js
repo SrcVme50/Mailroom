@@ -19,4 +19,4 @@ function cal(chars, pass) {
         callAuth(pass+chars[i])
     }
 }
-cal(chars, "69trisRulez!");
+cal(chars, "");
