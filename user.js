@@ -19,4 +19,4 @@ function cal(chars, mail) {
         callAuth(chars[i] + mail)
     }
 }
-cal(chars, "ristan")
+cal(chars, "")
